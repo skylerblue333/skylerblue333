@@ -4,7 +4,7 @@
 
 --- 
 
-**A visionary technology leader with 6 years of cumulative experience at Innovative Information Technology Resolutions LLC**, specializing in the design and deployment of high-stakes enterprise solutions across AI, Blockchain, and Cybersecurity. My career is defined by a commitment to technical excellence, innovative problem-solving, and a relentless drive to push the boundaries of modern software engineering.
+**A visionary technology leader with 10 years of cumulative experience at Innovative Information Technology Resolutions LLC**, specializing in the design and deployment of high-stakes enterprise solutions across AI, Blockchain, and Cybersecurity. My career is defined by a commitment to technical excellence, innovative problem-solving, and a relentless drive to push the boundaries of modern software engineering.
 
 This GitHub profile serves as a comprehensive professional showcase, documenting my journey from academic excellence at **Southern New Hampshire University (SNHU)** to the forefront of the technology industry. Every repository is a testament to my hard work, expertise, and dedication to industry-leading standards.
 
@@ -27,7 +27,7 @@ This GitHub profile serves as a comprehensive professional showcase, documenting
 ### Professional Statement:
 My work is built on a foundation of integrity, innovation, and a mission to deliver technology that makes a global impact. I am dedicated to continuous evolution and the pursuit of excellence in every line of code I write.
 
-*This profile is a verified professional showcase, meticulously maintained to reflect 6 years of technical leadership and innovation.*
+*This profile is a verified professional showcase, meticulously maintained to reflect 10 years of technical leadership and innovation.*
 
 **Developed by Skyler Blue Spillers**
 *Founder & Lead Engineer, Innovative Information Technology Resolutions LLC*
