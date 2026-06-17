@@ -4,7 +4,7 @@
 
 --- 
 
-**A visionary technology leader with 10 years of cumulative experience at Innovative Information Technology Resolutions LLC**, specializing in the design and deployment of high-stakes enterprise solutions across AI, Blockchain, and Cybersecurity. My career is defined by a commitment to technical excellence, innovative problem-solving, and a relentless drive to push the boundaries of modern software engineering.
+**A visionary technology leader with 4 years of cumulative experience at Innovative Information Technology Resolutions LLC**, specializing in the design and deployment of high-stakes enterprise solutions across AI, Blockchain, and Cybersecurity. My career is defined by a commitment to technical excellence, innovative problem-solving, and a relentless drive to push the boundaries of modern software engineering.
 
 This GitHub profile serves as a comprehensive professional showcase, documenting my journey from academic excellence at **Southern New Hampshire University (SNHU)** to the forefront of the technology industry. Every repository is a testament to my hard work, expertise, and dedication to industry-leading standards.
 
