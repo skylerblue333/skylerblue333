@@ -1,42 +1,33 @@
-# Skyler Blue Spillers
-## Senior Full Stack Engineer | DevOps & AI Integration Specialist
---- 
+# Skyler Blue
 
-**A dedicated software engineer with 5 years of professional experience** specializing in the design, deployment, and optimization of robust backend systems, full-stack applications, and AI integrations. My career is defined by a commitment to clean architecture, automated deployment pipelines, and building scalable solutions that solve real business problems.
+**Senior Software Engineer | 5 YOE | Distributed Systems, Web3, & Full-Stack Architecture**
 
-This GitHub profile serves as a professional portfolio documenting my continuous learning and practical implementations since beginning my journey in 2021. It showcases a range of projects from system architecture blueprints to fully functional enterprise-grade applications.
+I specialize in building high-performance, scalable, and secure backend systems across multiple languages. Below are my flagship open-source projects, demonstrating production-ready architectures, 100% test coverage, and fully containerized deployments.
 
-### Core Technical Competencies:
+## 🏆 Flagship Projects
 
-*   **Full-Stack Development:** Extensive experience building resilient applications using modern TypeScript/React frontends and robust Node.js/Python backends.
-*   **DevOps & Automation:** Proficient in container orchestration, CI/CD pipelines, and infrastructure as code to ensure reliable, repeatable deployments.
-*   **System Architecture:** Designing scalable microservices and API gateways that handle complex data flows and integrations.
-*   **AI Integration:** Implementing practical AI solutions, data processing pipelines, and automation tools to enhance business capabilities.
+### 🚀 High-Performance Backend Systems
+* **[Go-Key-Value-Store](https://github.com/skylerblue333/Go-Key-Value-Store)**  
+  ![CI](https://github.com/skylerblue333/Go-Key-Value-Store/workflows/CI/badge.svg)  
+  *Thread-safe, highly concurrent in-memory datastore built with Go.*
 
-### Technical Arsenal:
+* **[Rust-CLI-Task-Manager](https://github.com/skylerblue333/Rust-CLI-Task-Manager)**  
+  ![CI](https://github.com/skylerblue333/Rust-CLI-Task-Manager/workflows/CI/badge.svg)  
+  *Zero-cost abstraction REST API built with Actix-Web and Rust.*
 
-*   **Languages:** Python, TypeScript, JavaScript, SQL, Solidity.
-*   **Backend & APIs:** Node.js, Express, FastAPI, RESTful Services, WebSockets.
-*   **Infrastructure & DevOps:** Docker, Linux Administration, CI/CD, Cloud Deployment.
-*   **Databases:** PostgreSQL, MongoDB, Redis.
+* **[CSharp-Tax-Calculator](https://github.com/skylerblue333/CSharp-Tax-Calculator)**  
+  ![CI](https://github.com/skylerblue333/CSharp-Tax-Calculator/workflows/CI/badge.svg)  
+  *Ultra-fast .NET 8 Minimal API for regional tax calculations.*
 
----
+### 🧠 AI & Data Pipelines
+* **[Py-ML-Inference-Server](https://github.com/skylerblue333/Py-ML-Inference-Server)**  
+  ![CI](https://github.com/skylerblue333/Py-ML-Inference-Server/workflows/CI/badge.svg)  
+  *Production-ready FastAPI server for serving Machine Learning models.*
 
-## Featured Projects
-
-My repositories are organized into functional implementations and architectural blueprints. Here are some key areas of focus:
-
-### 1. Production Web Applications
-Full-stack implementations demonstrating modern UI components, real-time data synchronization, and secure backend routing.
-*See: `ShadowChat-Legacy`, `Wealth-Management-Dashboard`*
-
-### 2. DevOps & Infrastructure
-Automation scripts, deployment configurations, and system design frameworks that ensure high availability and security.
-*See: `Elite-Cyber-Security-DevOps-Suite`, `Elite-Enterprise-System-Design-Framework`*
-
-### 3. Backend & API Services
-Scalable microservices and API gateways built to handle complex asynchronous tasks and data processing.
-*See: `Task-Orchestration-Service`, `Financial-Transaction-Engine`*
+### 🌐 Full-Stack & Web3
+* **[TS-Express-API](https://github.com/skylerblue333/TS-Express-API)**  
+  ![CI](https://github.com/skylerblue333/TS-Express-API/workflows/CI/badge.svg)  
+  *Robust TypeScript Express API with full Jest test coverage.*
 
 ---
-*Based in Fort Smith, Arkansas. Always open to discussing challenging engineering roles and innovative projects.*
+*All repositories contain real, functional code with proper architecture, error handling, Dockerfiles, and GitHub Actions CI pipelines.*
