@@ -4,7 +4,7 @@
 
 <h1 align="center">Senior Software Engineer | Distributed Systems & Web3 Architecture</h1>
 
-<p align="center">
+<p align="center"> 
   Building high-performance, fault-tolerant systems across the stack. Specializing in <b>Go</b>, <b>Rust</b>, <b>TypeScript</b>, and <b>Python</b>.
 </p>
 
