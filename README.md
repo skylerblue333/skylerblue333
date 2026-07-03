@@ -1,70 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Skyler%20Blue&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Skyler%20Blue&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h1 align="center">Senior Software Engineer | Distributed Systems & Web3 Architecture</h1>
+<h1 align="center">Full Stack Developer | Systems & Security Enthusiast</h1>
 
 <p align="center"> 
-  Building high-performance, fault-tolerant systems across the stack. Specializing in <b>Go</b>, <b>Rust</b>, <b>TypeScript</b>, and <b>Python</b>.
+  Passionate about building functional, secure, and well-documented software. Focused on <b>TypeScript</b>, <b>Rust</b>, <b>Python</b>, and <b>Cybersecurity</b>.
 </p>
 
 <div align="center">
   <a href="https://github.com/skylerblue333">
-    <img src="https://img.shields.io/badge/5_Years-Engineering_Experience-000000?style=for-the-badge&logo=github" alt="Experience" />
+    <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&logo=github" alt="Status" />
   </a>
   <a href="https://github.com/skylerblue333">
-    <img src="https://img.shields.io/badge/100+-Production_Repos-000000?style=for-the-badge&logo=git" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Projects-100+-000000?style=for-the-badge&logo=git" alt="Repositories" />
   </a>
 </div>
 
 <br />
 
-## 🚀 Core Engineering Philosophy
-I build systems designed for **scale, observability, and zero-downtime**. My codebases default to:
-- **Event-Driven Architecture**: Redis Pub/Sub, Kafka, WebSockets
-- **Memory Safety & Concurrency**: Rust ownership, Go channels, lock-free atomics
-- **Observability**: OpenTelemetry, Jaeger tracing, Prometheus metrics
-- **Infrastructure as Code**: Dockerized multi-stage builds, GitHub Actions CI/CD
+## 🛠️ About Me
+I'm a developer who loves diving deep into how things work. Whether it's building a decentralized ecosystem, securing a network, or optimizing a backend service, I focus on writing clean, maintainable code. I don't just build features; I build systems.
+
+- 🔭 **Current Focus**: Scaling the **Skycoin Ecosystem** and enhancing **ShadowChat**.
+- 🛡️ **Security Mindset**: Certified Ethical Hacker (CEH) background—I build with security as a first-class citizen.
+- ⚡ **Tech Stack**: React/Next.js, Node.js, Rust, Python, Solidity, and Docker.
+- 🤝 **Open to**: Collaborating on open-source tools and interesting backend challenges.
 
 ---
 
-## 🏆 Flagship Architecture Showcases
+## 🏆 Featured Projects
 
-These repositories demonstrate deep architectural patterns and are fully verified with tests and CI pipelines.
+### 🌌 [Skycoin Ecosystem](https://github.com/skylerblue333/skycoin4444)
+A comprehensive digital platform featuring real crypto mining integration, AI-powered tools, and a modular architecture.
+- **Tech**: React 19, Express, tRPC, MySQL, Drizzle ORM.
+- **Key Achievement**: Implemented a unified system loop for real-time mining rewards and AI insights.
 
-### ⚡ High-Performance Systems
-* [**Go-Load-Balancer**](https://github.com/skylerblue333/Go-Load-Balancer) — L7 reverse proxy with lock-free atomic round-robin routing and active health checks.
-* [**Rust-Circuit-Breaker**](https://github.com/skylerblue333/Rust-Circuit-Breaker) — Memory-safe API gateway state machine using Tokio async and zero-copy I/O.
-* [**Go-Concurrent-Crawler**](https://github.com/skylerblue333/Go-Concurrent-Crawler) — Bounded-concurrency web engine using semaphore patterns and context cancellation.
+### 💬 [ShadowChat](https://github.com/skylerblue333/ShadowChat)
+A secure, real-time messaging application designed for privacy and speed.
+- **Tech**: TypeScript, WebSockets, Socket.io, Redis.
+- **Key Achievement**: Built a low-latency messaging core with end-to-end encryption principles.
 
-### 🧠 AI & Real-Time Data
-* [**AI-Agent-Orchestrator**](https://github.com/skylerblue333/AI-Agent-Orchestrator) — Event-driven Python engine for managing autonomous LLM agent swarms via Redis.
-* [**TS-WebSocket-Chat**](https://github.com/skylerblue333/TS-WebSocket-Chat) — High-concurrency Node.js WebSocket gateway with strict Zod runtime schema validation.
-* [**Py-ML-Inference-Server**](https://github.com/skylerblue333/Py-ML-Inference-Server) — Ultra-low latency FastAPI inference gateway for sub-millisecond neural network forward passes.
-
-### 🌐 Web3 & Fintech
-* [**Sol-NFT-Marketplace**](https://github.com/skylerblue333/Sol-NFT-Marketplace) — Gas-optimized Solidity smart contract with reentrancy guards and pull-over-push Ether transfers.
-* [**CSharp-Tax-Calculator**](https://github.com/skylerblue333/CSharp-Tax-Calculator) — .NET 8 Minimal API engine for progressive cascading tax bracket logic.
+### 🦀 [Rust Systems Suite](https://github.com/skylerblue333?tab=repositories&q=rust)
+A collection of high-performance tools including file encryptors, disaster recovery implementations, and circuit breakers.
+- **Focus**: Memory safety, concurrency, and performance.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
+## 💻 Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,py,cs,solidity,docker,githubactions,redis,postgres,graphql,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,rust,py,solidity,docker,githubactions,redis,postgres,mysql,aws,linux&perline=8" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skylerblue333&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skylerblue333&theme=radical&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a0a0a0&sideLabels=a0a0a0&dates=a0a0a0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skylerblue333&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skylerblue333&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <i>"Code is read far more often than it is written. Build for the engineer who comes after you."</i>
+  <i>"Always be learning, always be building."</i>
 </div>
