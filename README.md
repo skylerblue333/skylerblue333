@@ -1,60 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Skyler%20Blue&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Skyler%20Blue&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h1 align="center">Full Stack Developer | Systems & Security Enthusiast</h1>
+<h1 align="center">Building the Future with Integrity & Innovation</h1>
 
-<p align="center"> 
-  Passionate about building functional, secure, and well-documented software. Focused on <b>TypeScript</b>, <b>Rust</b>, <b>Python</b>, and <b>Cybersecurity</b>.
+<p align="center">
+  <b>Full Stack Architect | Security Specialist | Family Man</b>
 </p>
 
 <div align="center">
   <a href="https://github.com/skylerblue333">
-    <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&logo=github" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   </a>
   <a href="https://github.com/skylerblue333">
-    <img src="https://img.shields.io/badge/Projects-100+-000000?style=for-the-badge&logo=git" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Portfolio-Curated_Works-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br />
 
-## 🛠️ About Me
-I'm a developer who loves diving deep into how things work. Whether it's building a decentralized ecosystem, securing a network, or optimizing a backend service, I focus on writing clean, maintainable code. I don't just build features; I build systems.
+## 🌟 About Me
+I'm a developer who believes that **great code comes from great values**. I focus on building technology that serves people—secure, fast, and reliable. When I'm not architecting systems, I'm a proud father of three daughters, dedicated to building a better digital world for them.
 
-- 🔭 **Current Focus**: Scaling the **Skycoin Ecosystem** and enhancing **ShadowChat**.
-- 🛡️ **Security Mindset**: Certified Ethical Hacker (CEH) background—I build with security as a first-class citizen.
-- ⚡ **Tech Stack**: React/Next.js, Node.js, Rust, Python, Solidity, and Docker.
-- 🤝 **Open to**: Collaborating on open-source tools and interesting backend challenges.
-
----
-
-## 🏆 Featured Projects
-
-### 🌌 [Skycoin Ecosystem](https://github.com/skylerblue333/skycoin4444)
-A comprehensive digital platform featuring real crypto mining integration, AI-powered tools, and a modular architecture.
-- **Tech**: React 19, Express, tRPC, MySQL, Drizzle ORM.
-- **Key Achievement**: Implemented a unified system loop for real-time mining rewards and AI insights.
-
-### 💬 [ShadowChat](https://github.com/skylerblue333/ShadowChat)
-A secure, real-time messaging application designed for privacy and speed.
-- **Tech**: TypeScript, WebSockets, Socket.io, Redis.
-- **Key Achievement**: Built a low-latency messaging core with end-to-end encryption principles.
-
-### 🦀 [Rust Systems Suite](https://github.com/skylerblue333?tab=repositories&q=rust)
-A collection of high-performance tools including file encryptors, disaster recovery implementations, and circuit breakers.
-- **Focus**: Memory safety, concurrency, and performance.
+- 🛡️ **Cybersecurity Expert**: Certified Ethical Hacker (CEH) with a focus on zero-trust systems.
+- 🌌 **Ecosystem Architect**: Currently scaling the **Skycoin Platform**—a modular digital super-platform.
+- 💬 **Privacy Advocate**: Building **ShadowChat**, a secure real-time messaging core.
+- 🤝 **Collaborator**: I love working with passionate people on projects that matter.
 
 ---
 
-## 💻 Tech Arsenal
+## 🏆 Flagship Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/skylerblue333/skycoin4444"><b>🌌 Skycoin Ecosystem</b></a><br />
+      A modular digital platform featuring AI, Mining, and E-Commerce.<br />
+      <code>TypeScript</code> <code>React</code> <code>MySQL</code>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/skylerblue333/ShadowChat"><b>💬 ShadowChat</b></a><br />
+      Secure, real-time messaging with end-to-end encryption principles.<br />
+      <code>Node.js</code> <code>WebSockets</code> <code>Redis</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/skylerblue333/my-skills"><b>🛠️ Tech Arsenal</b></a><br />
+      A curated showcase of my technical tools and MCP modules.<br />
+      <code>Automation</code> <code>CI/CD</code> <code>Security</code>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/skylerblue333?tab=repositories&q=rust"><b>🦀 Rust Systems</b></a><br />
+      High-performance, memory-safe backend utilities.<br />
+      <code>Rust</code> <code>Concurrency</code> <code>Systems</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,rust,py,solidity,docker,githubactions,redis,postgres,mysql,aws,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,rust,py,solidity,docker,githubactions,redis,postgres,mysql,aws,linux,figma,tailwind&perline=8" />
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Growth & Impact
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skylerblue333&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skylerblue333&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" />
@@ -63,5 +76,17 @@ A collection of high-performance tools including file encryptors, disaster recov
 <br />
 
 <div align="center">
-  <i>"Always be learning, always be building."</i>
+  <h3>Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/skyler-spillers-7ab494419/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iitrskylerblue4444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Code is poetry, but integrity is the foundation."</i>
 </div>
