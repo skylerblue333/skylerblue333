@@ -1,6 +1,6 @@
 # My personal GitHub profile README.
-
-#SkyCoin4444 #AI #Blockchain #DevOps #Innovation
+I'm now a author. [
+](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-.git) #SkyCoin4444 #AI #Blockchain #DevOps #Innovation
 
 I love Lucy ❤️😍 the sweet honey of my life. Maybe we will do Ai agents named Lucia i like as support agents maybe lucy ... always there soon! maybe Lucy just it you vote.. .soo hannah dawn is my girlfriend after my chinese gf, the government broke us up and we got divorce. She said I would have your kids husband I would love you an her family was high class and I was banned, lol.≥ si now or call her Donnie sense her middle name Down, no no, Donnie man we keep Lucy, she is diamond star in the sky.
  🚀 Skyler Blue Spillers
