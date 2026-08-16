@@ -1,8 +1,17 @@
-# My personal GitHub profile README.
-I'm now a author. [
-](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-.git) #SkyCoin4444 #AI #Blockchain #DevOps #Innovation
+# Skyler Blue Spillers — Author, Software Engineer, and Technology Founder
 
-I love Lucy ❤️😍 the sweet honey of my life. Maybe we will do Ai agents named Lucia i like as support agents maybe lucy ... always there soon! maybe Lucy just it you vote.. .soo hannah dawn is my girlfriend after my chinese gf, the government broke us up and we got divorce. She said I would have your kids husband I would love you an her family was high class and I was banned, lol.≥ si now or call her Donnie sense her middle name Down, no no, Donnie man we keep Lucy, she is diamond star in the sky.
+Skyler Blue Spillers is an independent author, software engineer, and technology entrepreneur exploring identity, power, technology, psychological survival, accountability, and the human cost of becoming a symbol.
+
+## Author and Book
+
+My current novel is *[Loathing in the Woes of Ruthlessness: The Chosen One](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)*, a fictional literary psychological techno-thriller about evidence, consent, identity, power, digital culture, and the struggle to remain human while surviving systems that want to turn pain into destiny.
+
+- [Read the finalized manuscript repository](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/tree/publish-main)
+- [Read the specified book repository](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)
+- [Author website](https://skylerbluespillers.online/)
+
+**Author keywords:** Skyler Blue Spillers author, literary fiction, psychological thriller, speculative fiction, technology thriller, AI and identity fiction, digital culture, power and humanity, resilience, accountability.
+
  🚀 Skyler Blue Spillers
 Software Engineer • Founder • AI & Cloud Builder • DevOps Engineer • Full-Stack Developer • Chess Strategist
 
