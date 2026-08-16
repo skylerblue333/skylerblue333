@@ -1,520 +1,137 @@
-# Skyler Blue Spillers — Author, Software Engineer, and Technology Founder
+<div align="center">
 
-Skyler Blue Spillers is an independent author, software engineer, and technology entrepreneur exploring identity, power, technology, psychological survival, accountability, and the human cost of becoming a symbol.
+# Skyler Blue Spillers
 
-## Author and Book
+### Author · Software Engineer · AI & Cloud Builder · Technology Founder
 
-My current novel is *[Loathing in the Woes of Ruthlessness: The Chosen One](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)*, a fictional literary psychological techno-thriller about evidence, consent, identity, power, digital culture, and the struggle to remain human while surviving systems that want to turn pain into destiny.
+**Building technology with purpose. Writing stories about power, identity, and what survives.**
 
-- [Read the finalized manuscript repository](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/tree/publish-main)
-- [Read the specified book repository](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)
+[![Author Website](https://img.shields.io/badge/Author_Website-skylerbluespillers.online-0b132b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skylerbluespillers.online/)
+[![Book Repository](https://img.shields.io/badge/Book-90%2C056--word_novel-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/tree/publish-main)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Skyler_Spillers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-spillers-7ab494419)
+[![GitHub](https://img.shields.io/badge/GitHub-skylerblue333-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skylerblue333)
+
+</div>
+
+---
+
+## The short version
+
+I am **Skyler Blue Spillers**, an independent author, software engineer, and technology entrepreneur. My work connects software engineering, artificial intelligence, cloud systems, cybersecurity, blockchain, automation, education, and storytelling.
+
+I believe the best work is not merely impressive. It is **useful, responsible, documented, and built to outlive its creator**.
+
+> Build with purpose. Keep learning. Make the next move.
+
+## Featured book
+
+### *Loathing in the Woes of Ruthlessness: The Chosen One*
+
+My current novel is a fictional literary psychological techno-thriller about **evidence, consent, identity, power, digital culture, and the human cost of becoming a symbol**.
+
+The story follows a protagonist navigating decentralized influence, damaged records, institutional pressure, technology, relationships, and the temptation to turn survival into authority. Its central question is simple and difficult:
+
+> Can the chosen one survive the darkness without becoming the darkness?
+
+**Genres:** Literary fiction · Psychological drama · Speculative fiction · Technology thriller
+
+**Core themes:** Power versus humanity · Evidence and uncertainty · Ruthlessness and compassion · Technology and identity · Accountability · Resilience · Legacy
+
+<div align="center">
+
+[**Read the finalized manuscript repository →**](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/tree/publish-main)
+
+[**Read the specified book repository →**](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)
+
+</div>
+
+## What I build
+
+### AI and intelligent systems
+
+I explore AI assistants, orchestration, automation, applied machine intelligence, intelligent matching, and tools that expand access to knowledge without replacing human responsibility.
+
+### Software and cloud engineering
+
+My engineering interests include TypeScript, JavaScript, React, Node.js, Python, REST APIs, SQL, MySQL, full-stack architecture, cloud infrastructure, DevOps, CI/CD, observability, deployment, testing, and documentation.
+
+### Security and responsible technology
+
+I study defensive engineering, secure configuration, authentication, authorization, application security, dependency security, cybersecurity research, responsible disclosure, and the human consequences of technical decisions.
+
+### Blockchain and digital systems
+
+My portfolio also explores blockchain applications, wallet infrastructure, digital assets, token systems, multi-chain architecture, developer tooling, and the design questions that emerge when software interacts with value and identity.
+
+## Technology stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## Flagship initiatives
+
+| Initiative | Focus |
+|---|---|
+| **SKYCOIN4444** | Blockchain, AI, digital assets, infrastructure, and developer tooling |
+| **HopeAI** | AI assistants, automation, education, and accessible intelligent systems |
+| **SkySchool** | Technology education, curriculum, learning tools, and opportunity |
+| **SkyHope** | Community, compassion, service, and human-centered impact |
+| **IITR** | Innovative Information Technology Resolutions and technology services |
+
+These names represent an evolving portfolio. Some repositories are production-oriented, while others are experiments, prototypes, research projects, historical work, or architectural explorations. I aim to describe each project honestly rather than presenting every idea as finished.
+
+## How I work
+
+My engineering and creative process follows the same cycle:
+
+```text
+IDEA → ARCHITECT → BUILD → TEST → DOCUMENT → REVIEW → IMPROVE
+```
+
+I value:
+
+- Evidence over assumptions.
+- Security by default.
+- Documentation as part of engineering.
+- Modular systems with clear boundaries.
+- Human judgment where consequences matter.
+- Iteration instead of pretending the first version is perfect.
+
+## Why writing belongs here
+
+Software explains how systems work. Fiction explores what systems do to people.
+
+Writing gives me a place to examine the emotional and philosophical questions that do not fit inside source code: what happens when identity becomes data, when attention becomes infrastructure, when an institution mistakes consistency for justice, and when someone survives long enough to decide what survival is for.
+
+## Discover more
+
 - [Author website](https://skylerbluespillers.online/)
+- [Main novel repository](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/tree/publish-main)
+- [Specified novel repository](https://github.com/skylerblue333/Loathing-in-the-woes-of-ruthless-the-chosen-one-/tree/publish-main)
+- [Backup novel repository](https://github.com/skylerblue333/the-digital-ghost)
+- [Author and book SEO metadata](https://github.com/skylerblue333/loathing-in-the-woes-of-ruthlessness/blob/publish-main/author_book_seo.md)
+- [LinkedIn](https://www.linkedin.com/in/skyler-spillers-7ab494419)
 
-**Author keywords:** Skyler Blue Spillers author, literary fiction, psychological thriller, speculative fiction, technology thriller, AI and identity fiction, digital culture, power and humanity, resilience, accountability.
+## A final note
 
- 🚀 Skyler Blue Spillers
-Software Engineer • Founder • AI & Cloud Builder • DevOps Engineer • Full-Stack Developer • Chess Strategist
+I am still learning. Still building. Still writing. Still revising.
 
-Building technology that is resilient, intelligent, scalable, and future-proof.
+The goal is not to become a perfect engineer, founder, or author. The goal is to make the next decision more honest than the last one and leave behind work that helps someone else take a better next step.
 
-Welcome to my engineering portfolio.
+<div align="center">
 
-I am Skyler Blue Spillers, a software engineer and technology founder focused on building ambitious systems across AI, software development, cloud infrastructure, DevOps, blockchain, cybersecurity, automation, and full-stack application engineering.
+**Build purposefully. Learn continuously. Leave something meaningful behind.**
 
-My GitHub represents more than individual projects. It is an evolving engineering laboratory where I experiment, build, refactor, document, test, and continuously improve software systems.
-
-🧭 My Mission
-
-My long-term goal is to become a future-proof technology leader capable of taking complex software from idea → architecture → implementation → validation → deployment → continuous improvement.
-
-I believe great engineering is not simply about writing more code.
-
-It is about building systems that are:
-
-🧠 Intelligent
-🔐 Secure
-🧩 Modular
-⚡ Performant
-🧪 Testable
-☁️ Cloud-ready
-🔄 Maintainable
-📈 Scalable
-📚 Documented
-🛠️ Observable
-🌎 Accessible
-🔮 Future-proof
-💻 Engineering Focus
-
-My primary engineering interests include:
-
-Software Engineering
-TypeScript
-JavaScript
-React
-Node.js
-Express
-REST APIs
-tRPC
-HTML5
-CSS
-SQL
-MySQL
-Drizzle ORM
-Full-stack architecture
-API design
-Component architecture
-AI & Machine Learning
-AI applications
-AI agents
-AI orchestration
-AI-assisted development
-Intelligent automation
-AI APIs
-AI marketplaces
-AI companions
-Applied machine intelligence
-Cloud & DevOps
-Git
-GitHub
-CI/CD
-Cloud architecture
-Infrastructure automation
-Production deployment
-Observability
-Monitoring
-Disaster recovery
-Release engineering
-Security
-Application security
-Authentication
-Authorization
-Secure configuration
-Secret management
-Dependency security
-Security auditing
-Defensive engineering
-Cybersecurity research
-Blockchain & Web3
-Blockchain applications
-Wallet infrastructure
-Token systems
-Trading systems
-Smart-contract ecosystems
-Web3 integrations
-Multi-chain architecture
-Other Technologies
-
-My portfolio also explores technologies including:
-
-Python
-Go
-Rust
-C++
-C#
-Java
-Ruby
-Scala
-Elixir
-Solidity
-🌌 SKYCOIN4444
-
-One of my primary technology initiatives is the SKYCOIN4444 ecosystem.
-
-The project explores the intersection of:
-
-Blockchain
-AI
-Finance
-Wallet infrastructure
-Digital assets
-Social applications
-Education
-Security
-Developer tooling
-Automation
-
-The ecosystem has evolved into a large multi-module engineering portfolio containing applications, services, experiments, infrastructure, and supporting technologies.
-
-Public repository material documents SKYCOIN4444 setup, development, testing, database configuration, production builds, and deployment workflows.
-
-🤖 HopeAI
-
-HopeAI is another major pillar of my engineering work.
-
-The project explores:
-
-AI agents
-AI orchestration
-Intelligent matching
-AI-powered applications
-Social systems
-Automation
-AI infrastructure
-Data-driven services
-
-HopeAI has been treated as a flagship engineering project with architectural modernization, schema synchronization, runtime validation, and automated testing.
-
-💬 ShadowChat
-
-ShadowChat explores real-time communication, security, wallet integrations, and application infrastructure.
-
-Public repository documentation demonstrates work on wallet connectivity, transaction handling, signing and verification, authentication-protected procedures, and multi-chain integrations.
-
-The project also contains extensive engineering documentation around deployment, validation, infrastructure, and system readiness.
-
-♟️ Chess & Engineering
-
-Chess is an important part of how I think about engineering.
-
-I approach chess as an exercise in:
-
-Pattern recognition
-Strategic planning
-Risk management
-Long-term thinking
-Tactical calculation
-Adaptation
-Resource management
-Learning from mistakes
-
-Those same principles apply to software architecture.
-
-A good engineer, like a good chess player, must think beyond the immediate move.
-
-Engineering mindset:
-
-See the board. Understand the dependencies. Calculate the consequences. Make the best move available.
-
-My public chess activity is part of the broader story behind my interest in strategic computing and problem solving.
-
-👨‍👧‍👧 Family & Life
-
-Technology is only one part of my story.
-
-I am a father of three daughters, and family has been an important source of motivation throughout my life.
-
-Being a parent has reinforced lessons that also influence my engineering philosophy:
-
-Build things that last.
-Take responsibility for what you create.
-Keep learning.
-Adapt when circumstances change.
-Think about the future.
-Leave something meaningful behind.
-
-I also have an international interest in relationships and culture, including an interest in Chinese language and culture.
-
-I have studied Mandarin and use language learning as another way to challenge myself intellectually.
-
-📖 My Story
-
-My path into technology has not been perfectly linear.
-
-I have worked across different environments while continuing to pursue technology and software development.
-
-My journey has included:
-
-work → education → experimentation → software development → cybersecurity → entrepreneurship → AI → large-scale engineering
-
-Along the way, I learned that engineering is not just something you study.
-
-It is something you practice.
-
-Every broken build, failed test, confusing bug, unfinished project, and architectural mistake becomes another opportunity to understand systems more deeply.
-
-That philosophy is one reason this GitHub portfolio contains both polished projects and experimental work.
-
-🎓 Education & Continuous Learning
-
-My education and professional development have included studies in:
-
-Information Technology
-Software Development
-Cybersecurity
-Software engineering
-Programming
-Cloud technologies
-AI
-DevOps
-
-I have also pursued independent technology education and hands-on software-development training.
-
-My philosophy is:
-
-Education gets you started. Building makes you an engineer.
-
-🏢 Entrepreneurship
-
-I am building technology through entrepreneurial projects rather than limiting myself to a single traditional software role.
-
-One major organization associated with my work is:
-
-Innovative Information Technology Resolutions — IITR
-
-The broader vision is to use information technology to solve modern problems through:
-
-Software
-AI
-Automation
-Infrastructure
-Security
-Digital innovation
-Strategic technology consulting
-🧪 The 191-Repository Engineering Portfolio
-
-One of the largest engineering efforts represented by this GitHub account is the systematic modernization of a portfolio of approximately 191 repositories.
-
-The goal is not simply to accumulate repositories.
-
-The goal is to transform the portfolio into a coherent engineering ecosystem.
-
-The modernization methodology includes:
-
-AUDIT
-   ↓
-CLASSIFY
-   ↓
-ARCHITECT
-   ↓
-MAP DEPENDENCIES
-   ↓
-IDENTIFY TECHNICAL DEBT
-   ↓
-SECURITY REVIEW
-   ↓
-MODERNIZE
-   ↓
-TEST
-   ↓
-BUILD
-   ↓
-LINT
-   ↓
-VALIDATE
-   ↓
-DOCUMENT
-   ↓
-CHECKPOINT
-   ↓
-CONTINUOUSLY IMPROVE
-🏗️ Portfolio Engineering Standards
-
-My modernization strategy emphasizes:
-
-1. Zero-Broken-Build
-
-A repository should not be considered complete merely because code was changed.
-
-It should be built and validated.
-
-2. Evidence-Based Engineering
-
-Every major upgrade should have evidence:
-
-Before state
-After state
-Commands executed
-Test results
-Build results
-Security findings
-Known limitations
-Exact changes
-Git checkpoint
-3. Future-Proof Architecture
-
-Systems should be designed around:
-
-Modularity
-Replaceable components
-Clear interfaces
-Observability
-Automated testing
-Vendor independence
-Maintainability
-4. Security by Default
-
-Security should be part of the architecture rather than something added at the end.
-
-5. Documentation as Engineering
-
-Documentation should explain not only what the system does, but why it was designed that way.
-
-🏆 Flagship Engineering Checkpoints
-
-Two flagship repositories have already gone through dedicated modernization work and received Git checkpoints.
-
-Project	Checkpoint	Status
-SKYCOIN4444	v1.0.0-modernized-baseline	Engineering modernization checkpoint
-HopeAI	v1.0.0-runtime-validated-baseline	Runtime-validated checkpoint; typecheck deferred
-
-These checkpoints create a reproducible historical boundary between the original code and subsequent engineering work.
-
-📊 What I Am Building
-
-The broader ecosystem includes concepts and projects involving:
-
-🌌 SKYCOIN
-🤖 HopeAI
-💬 ShadowChat
-🎓 SkySchool / SkyLearn
-❤️ SkyHope
-💰 SkyFinance
-🛒 SkyMarket
-🔐 SkySecurity
-⛓️ SkyChain
-💬 SkyChat
-💕 SkyDating
-🎨 NFT / digital-asset systems
-🧪 Developer laboratories
-♟️ Chess and strategy experiments
-
-Not every repository represents a production system. Some are experiments, research projects, libraries, prototypes, historical implementations, or architectural explorations.
-
-That distinction is intentional.
-
-🧰 Engineering Philosophy
-Build → Break → Learn → Fix → Verify → Improve
-
-I don't believe a developer becomes better by avoiding difficult problems.
-
-I believe developers become better by:
-
-Encountering difficult problems.
-Understanding why they happened.
-Designing a better solution.
-Testing the solution.
-Documenting what was learned.
-Applying the lesson to the next system.
-🔬 From Prototype to Production
-
-A recurring goal across my repositories is moving software through progressively stronger stages:
-
-IDEA
- ↓
-PROTOTYPE
- ↓
-WORKING APPLICATION
- ↓
-TESTED SYSTEM
- ↓
-SECURED SYSTEM
- ↓
-OBSERVABLE SYSTEM
- ↓
-DEPLOYABLE SYSTEM
- ↓
-MAINTAINABLE SYSTEM
- ↓
-SCALABLE SYSTEM
-
-The objective is not to pretend every repository is already at the final stage.
-
-The objective is to move each repository forward honestly.
-
-🌎 Why I Build
-
-I build because technology gives people the ability to turn ideas into systems.
-
-I want to create software that can:
-
-Solve real problems
-Help people
-Teach
-Connect communities
-Automate difficult work
-Improve access to technology
-Encourage innovation
-Create new opportunities
-
-My long-term vision is to combine software engineering + AI + cloud + security + entrepreneurship into technology platforms that can continue evolving for decades.
-
-📈 Current Career Direction
-Future-Proof Technology Executive
-Software Engineer
-AI & Cloud Innovation Leader
-Full-Stack Architect
-DevOps Engineer
-Technical Team Lead
-Technology Founder
-
-My goal is to grow from an individual builder into a technology leader capable of designing systems, leading engineering teams, managing architecture, and delivering large-scale products.
-
-🔭 Future Vision
-
-The long-term objective is to build an engineering ecosystem where:
-
-AI
-+
-SOFTWARE
-+
-CLOUD
-+
-SECURITY
-+
-BLOCKCHAIN
-+
-AUTOMATION
-+
-EDUCATION
-+
-ENTREPRENEURSHIP
-        ↓
-FUTURE-PROOF TECHNOLOGY
-
-The technology landscape changes constantly.
-
-My goal is to build systems—and develop the engineering skills—necessary to change with it.
-
-🤝 Collaboration
-
-I'm interested in connecting with people working in:
-
-Software engineering
-AI
-Cloud
-DevOps
-Cybersecurity
-Blockchain
-Open source
-Entrepreneurship
-Developer tooling
-Distributed systems
-Technical education
-
-If you're interested in ambitious technology projects, experimentation, or building the next generation of software systems, you're welcome to explore the repositories.
-
-📚 Portfolio Principle
-
-Don't just write code. Build systems.
-
-Don't just build systems. Understand them.
-
-Don't just understand them. Improve them.
-
-Don't just improve them. Make them last.
-
-👨‍💻 About Me
-
-Skyler Blue Spillers
-
-Software Engineer • Founder • AI Builder • DevOps • Full-Stack Development • Chess & Strategy
-
-Primary interests:
-AI • Software Engineering • Cloud • DevOps • Cybersecurity • Blockchain • Automation • Chess • Technology Entrepreneurship
-
-⭐ Explore the Portfolio
-
-Start with the flagship ecosystems and then explore the broader repository collection.
-
-
-dad to 3 daughters 
-
-The portfolio is continuously evolving.
-
-The code is the laboratory.
-The repositories are the record.
-The engineering process is the story.
-
-🚀 Keep Building.
-
-— Skyler Blue Spillers
+</div>
