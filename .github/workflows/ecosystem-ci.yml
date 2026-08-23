@@ -1,0 +1,120 @@
+name: SKYCOIN4444 Ecosystem CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  docs-and-secrets:
+    name: Docs and secret guard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate repository documentation
+        shell: bash
+        run: |
+          test -s README.md
+          grep -q "SKYCOIN4444" README.md
+          grep -q "skycoin4444.com" README.md
+      - name: Secret scan
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  node:
+    name: Node.js validation
+    runs-on: ubuntu-latest
+    if: ${{ hashFiles('package.json', '**/package.json') != '' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [20, 22]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+      - name: Install when package manifest exists
+        shell: bash
+        run: |
+          if [ -f package-lock.json ]; then npm ci; elif [ -f package.json ]; then npm install; fi
+      - name: Run available validation
+        shell: bash
+        run: |
+          if npm pkg get scripts.test 2>/dev/null | grep -qv 'null'; then npm test -- --if-present; fi
+          if npm pkg get scripts.build 2>/dev/null | grep -qv 'null'; then npm run build; fi
+
+  python:
+    name: Python validation
+    runs-on: ubuntu-latest
+    if: ${{ hashFiles('**/requirements.txt', '**/pyproject.toml') != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        shell: bash
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f pyproject.toml ]; then pip install -e .; fi
+      - name: Run pytest when available
+        shell: bash
+        run: |
+          if find . -maxdepth 3 -type f -name 'test_*.py' -o -name '*_test.py' | grep -q .; then
+            pip install pytest
+            pytest
+          else
+            echo 'No Python tests detected; implementation remains unverified.'
+          fi
+
+  rust:
+    name: Rust validation
+    runs-on: ubuntu-latest
+    if: ${{ hashFiles('**/Cargo.toml') != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: clippy,rustfmt
+      - name: Format check
+        run: cargo fmt --all -- --check
+      - name: Test
+        run: cargo test --workspace
+      - name: Clippy
+        run: cargo clippy --workspace --all-targets -- -D warnings
+
+  go:
+    name: Go validation
+    runs-on: ubuntu-latest
+    if: ${{ hashFiles('**/go.mod') != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+      - name: Test
+        run: go test ./...
+      - name: Vet
+        run: go vet ./...
+
+  summary:
+    name: Ecosystem CI policy
+    runs-on: ubuntu-latest
+    needs: [docs-and-secrets, node, python, rust, go]
+    if: always()
+    steps:
+      - name: Report
+        shell: bash
+        run: |
+          echo "SKYCOIN4444 CI completed."
+          echo "A missing language-specific job is acceptable when that stack is absent."
+          echo "A green CI run does not by itself establish production readiness."
